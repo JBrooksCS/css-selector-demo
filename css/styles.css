@@ -1,0 +1,30 @@
+body {
+    background-color: aqua;
+}
+
+nav a {
+    color: red;
+}
+
+
+article > p {
+    background-color: yellow;
+}
+
+div ~ p {
+    color: orange;
+}
+
+div + p {
+    color: red;
+}
+
+.active {
+    color:  blanchedalmond;
+}
+
+
+
+footer a {
+    color: darkorchid;
+}
